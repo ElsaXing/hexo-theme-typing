@@ -22,16 +22,17 @@ fb_app_id:
 
 
 # Profile
-nickname: NickName
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
+nickname: Elsa
+description: Architecture student, Web developer, ACG enthusiast. Interested in the interactions between human and everything else. Keep Learning and Exploring.
 links:
   Blog: /archives
-  GitHub: https://github.com/
-  Instagram: http://instagram.com/
-  Facebook: http://facebook.com/
-  Twitter : http://twitter.com/
+  GitHub: https://github.com/ElsaXing
+  Email: mailto:elsaxingmiao@gmail.com
+  About: /about
+
+
 
 
 # Info
-archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Archive
-post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Post
+archive_footer_content: This is my Instrumentality Project. I am trying to record my life here. You can check my **[explorations](/categories/explore)** on different things, my **[project](/categories/project)**  or some **[game reviews](/categories/game)**, also if you are interested in my **[life](/categories/life)**.
+post_footer_content: This is my Instrumentality Project. I am trying to record my life here. You can check my **[explorations](/categories/explore)** on different things, my **[project](/categories/project)**  or some **[game reviews](/categories/game)**, also if you are interested in my **[life](/categories/life)**.
