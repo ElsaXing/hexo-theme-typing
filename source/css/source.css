@@ -599,6 +599,8 @@ pre {
 /* mobile */
 
 @media (max-width: 468px) {
+  $mobile-content-width: 85%;
+
   body {
     font-size: 16px;
   }
@@ -621,6 +623,31 @@ pre {
       }
     }
   }
+
+.footer,
+.footer-content {
+  font-size: 100%;
+}
+
+.archive-footer, .post-footer {
+  width: $mobile-content-width;
+}
+
+.home {
+.content {
+  width: $mobile-content-width;
+}
+
+}
+.archive-container {
+  width: $mobile-content-width;
+}
+.article {
+  width: $mobile-content-width;
+}
+.comments {
+  width: $mobile-content-width;
+}
 }
 
 @media (max-width: 320px) {
